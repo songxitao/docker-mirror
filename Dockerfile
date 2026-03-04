@@ -1,1 +1,1 @@
-FROM lmsysorg/sglang:nightly-dev-20260303-145ae518
+FROM vllm/vllm-openai:nightly-097eb544e9a22810c9b7a59e586b61627b308362
