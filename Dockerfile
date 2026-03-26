@@ -1,1 +1,1 @@
-FROM vllm/vllm-openai:nightly-097eb544e9a22810c9b7a59e586b61627b308362
+FROM vllm/vllm-openai:nightly
