@@ -1,1 +1,1 @@
-FROM vllm/vllm-openai:nightly
+FROM nvcr.io/nim/nvidia/nemotron-3.5-asr-streaming-0.6b:latest
